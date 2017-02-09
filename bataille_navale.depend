@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486491809 source:e:\cours ecole ludus\programmation\c\bataille_navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/time.h>
+	<string.h>
+	<windows.h>
+
